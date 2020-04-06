@@ -1,5 +1,3 @@
-I am learning git.
-
-For this I am following Hasin Hayder's tutorial.
-
-Please go on
+I am learning git with Hasin Hayder.
+For this purpose I am following Hasin Hayder's tutorial.
+Please go on & don't stop.
